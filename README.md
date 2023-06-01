@@ -17,9 +17,13 @@ I'm a passionate frontend developer with a knack for crafting beautiful and user
 - ✨ UI/UX: Responsive Design
 - ✨ Build Tools: Webpack, Gulp
 
-#### 🔭 Side Projects
+#### 🔭 Key Projects
 
-- 🌱 [Project Name] - [Brief description of your personal project]
+Here are some of the most significant projects I have worked on:
+
+- [Project 1](link-to-project1): Brief description of the project and your contribution.
+- [Project 2](link-to-project2): Brief description of the project and your contribution.
+- [Project 3](link-to-project3): Brief description of the project and your contribution.
 
 #### 📚 About Me
 
