@@ -1,7 +1,5 @@
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__heading.png" alt="heading">
-
- Have a look at my [website](https://devilson.me).
  
  ## About me
   My expertise lies in crafting the visual and interactive aspects of websites and web applications. I have a deep understanding of HTML, CSS, and JavaScript, the building blocks of front-end development. Your proficiency in these languages enables you to structure web content, style it with precision, and add interactivity to enhance user engagement.
