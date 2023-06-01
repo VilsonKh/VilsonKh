@@ -1,9 +1,13 @@
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__heading.png" alt="heading">
  
- #### About me
+#### 📚 About Me
 
 I'm a passionate frontend developer with a knack for crafting beautiful and user-friendly web experiences. My goal is to create seamless, responsive, and visually appealing applications that leave a lasting impression on users.
+
+I'm deeply passionate about web development and constantly strive to expand my knowledge and skills in the field. I enjoy the challenge of solving complex problems and turning ideas into elegant and functional code.
+
+I have a strong eye for design and a deep understanding of user experience principles. I believe in the power of creating intuitive interfaces that not only look great but also provide a seamless and enjoyable experience for users.
 
 #### 💼 Education
 
@@ -24,12 +28,6 @@ Here are some of the most significant projects I have worked on:
 - [Project 1](link-to-project1): Brief description of the project and your contribution.
 - [Project 2](link-to-project2): Brief description of the project and your contribution.
 - [Project 3](link-to-project3): Brief description of the project and your contribution.
-
-#### 📚 About Me
-
-I'm deeply passionate about web development and constantly strive to expand my knowledge and skills in the field. I enjoy the challenge of solving complex problems and turning ideas into elegant and functional code.
-
-I have a strong eye for design and a deep understanding of user experience principles. I believe in the power of creating intuitive interfaces that not only look great but also provide a seamless and enjoyable experience for users.
 
 #### 📫 Let's Connect
 
