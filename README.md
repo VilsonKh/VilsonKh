@@ -1,13 +1,40 @@
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__heading.png" alt="heading">
  
- ## About me
-  My expertise lies in crafting the visual and interactive aspects of websites and web applications. I have a deep understanding of HTML, CSS, and JavaScript, the building blocks of front-end development. Your proficiency in these languages enables you to structure web content, style it with precision, and add interactivity to enhance user engagement.
- 
-  Attention to detail is one of my standout traits as a front-end developer. I understand the importance of pixel-perfect designs and have honed my skills in implementing responsive layouts that seamlessly adapt to different screen sizes and devices. My keen eye for design and aesthetics allows me to create visually appealing interfaces that not only attract users but also provide an intuitive and delightful user experience.
+ #### About me
 
-## Skills
-[Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I'm a passionate frontend developer with a knack for crafting beautiful and user-friendly web experiences. My goal is to create seamless, responsive, and visually appealing applications that leave a lasting impression on users.
+
+#### 💼 Education
+
+ I graduated with a bachelor's degree in Management, which has provided me with a strong foundation in problem-solving, communication, and project coordination. While studying, I discovered my love for coding and decided to pursue a career in frontend development.
+
+#### 🌟 Skills
+
+- ✨ Languages: HTML5, CSS3, JavaScript, TypeScript, SASS/SCSS
+- ✨ Frameworks: React.js
+- ✨ CSS Libraries: Bootstrap
+- ✨ UI/UX: Responsive Design
+- ✨ Build Tools: Webpack, Gulp
+
+#### 🔭 Side Projects
+
+- 🌱 [Project Name] - [Brief description of your personal project]
+
+#### 📚 About Me
+
+I'm deeply passionate about web development and constantly strive to expand my knowledge and skills in the field. I enjoy the challenge of solving complex problems and turning ideas into elegant and functional code.
+
+I have a strong eye for design and a deep understanding of user experience principles. I believe in the power of creating intuitive interfaces that not only look great but also provide a seamless and enjoyable experience for users.
+
+#### 📫 Let's Connect
+
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email at [Your Email] or connect with me on LinkedIn at [Your LinkedIn Profile].
+
+Looking forward to connecting with you and creating amazing web experiences together!
+
+
+
 <!--
 **VilsonKh/VilsonKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
