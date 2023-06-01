@@ -1,5 +1,5 @@
 
-<img src="[https://github.com/visonkh/vilsonkg/github__heading.png](https://github.com/VilsonKh/VilsonKh/blob/main/github__heading.png)" alt="heading">
+<img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__heading.png" alt="heading">
 
  Have a look at my [website](https://devilson.me).
  
