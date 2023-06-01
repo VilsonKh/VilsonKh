@@ -8,6 +8,8 @@
  
   Attention to detail is one of my standout traits as a front-end developer. I understand the importance of pixel-perfect designs and have honed my skills in implementing responsive layouts that seamlessly adapt to different screen sizes and devices. My keen eye for design and aesthetics allows me to create visually appealing interfaces that not only attract users but also provide an intuitive and delightful user experience.
 
+## Skills
+[Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!--
 **VilsonKh/VilsonKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
