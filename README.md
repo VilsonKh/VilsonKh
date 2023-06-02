@@ -31,7 +31,7 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/firestore.svg" alt="firestore" height="70" width="70">
 </p>
 
-<img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__projects.png" alt="projects" width="20">
+<img src="https://github.com/VilsonKh/VilsonKh/blob/main/notable-projects.png" alt="projects" width="20">
 
 Here are some of the most significant projects I have worked on:
 
