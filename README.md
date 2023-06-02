@@ -31,7 +31,7 @@ Here are some of the most significant projects I have worked on:
 - [Project 2](link-to-project2): Brief description of the project and your contribution.
 - [Project 3](link-to-project3): Brief description of the project and your contribution.
 
-#### 📫 Let's Connect
+<img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__connect.png" alt="project">
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email at [Your Email] or connect with me on LinkedIn at [Your LinkedIn Profile].
 
