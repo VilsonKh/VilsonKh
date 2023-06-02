@@ -18,11 +18,11 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__skills.png" alt="skill">
 <p>
-  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/html5.svg" alt="html" height="50">
-  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/css3.svg" alt="css" height="50">
-  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/js.svg" alt="js" height="50">
-  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/TS.svg" alt="ts" height="50">
-  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/sass.svg" alt="sass" height="50">
+  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/html5.svg" alt="html" height="50" width="50">
+  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/css3.svg" alt="css" height="50" width="50">
+  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/js.svg" alt="js" height="50" width="50">
+  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/TS.svg" alt="ts" height="50" width="50">
+  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/sass.svg" alt="sass" height="50" width="50">
 </p>
 
 - Languages: [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass)](https://skillicons.dev)
