@@ -23,9 +23,9 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/js.svg" alt="js" height="50" width="50">
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/TS.svg" alt="ts" height="50" width="50">
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/sass.svg" alt="sass" height="50" width="50">
+  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/react.svg" alt="react" height="50" width="50">
 </p>
 
-- Languages: [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass)](https://skillicons.dev)
 - Libraries: [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 - CSS Libraries: [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 - Build Tools: [![My Skills](https://skillicons.dev/icons?i=webpack,gulp)](https://skillicons.dev)
