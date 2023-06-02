@@ -27,6 +27,7 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/bootstrap.svg" alt="bootstrap" height="70" width="70">
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/gulp.svg" alt="gulp" height="70" width="70">
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/webpack.svg" alt="webpack" height="70" width="70">
+  <img src="https://github.com/VilsonKh/VilsonKh/blob/main/node.svg" alt="node" height="70" width="70">
 </p>
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__projects.png" alt="projects" width="20">
