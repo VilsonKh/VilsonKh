@@ -25,7 +25,7 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/sass.svg" alt="sass" height="70" width="70">
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/react.svg" alt="react" height="70" width="70">
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/bootstrap.svg" alt="bootstrap" height="70" width="70">
-   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/gulp.svg" alt="gulp" height="50" width="50">
+   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/gulp.svg" alt="gulp" height="70" width="70">
 </p>
 
 - CSS Libraries: [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
