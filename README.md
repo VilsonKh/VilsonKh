@@ -44,7 +44,7 @@ Technologies: HTML, CSS, JS-libraries
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__connect.png" alt="project">
 
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email at [Your Email] or connect with me on LinkedIn at [Your LinkedIn Profile].
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email at [contact@devilson.me](mailto:contact@devilson.me) or connect with me on LinkedIn at [Your LinkedIn Profile].
 
 Looking forward to connecting with you and creating amazing web experiences together!
 
