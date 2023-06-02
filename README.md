@@ -24,7 +24,7 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
 - CSS Libraries: [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 - Build Tools: [![My Skills](https://skillicons.dev/icons?i=webpack,gulp)](https://skillicons.dev)
 
-<img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__projects.png" alt="projects">
+<img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__projects.png" alt="projects" width="20">
 
 Here are some of the most significant projects I have worked on:
 
