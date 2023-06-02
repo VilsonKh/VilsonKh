@@ -17,10 +17,10 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
 
 #### 🌟 Skills
 
-Languages: [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass)](https://skillicons.dev)
-Libraries: [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-CSS Libraries: [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-Build Tools: [![My Skills](https://skillicons.dev/icons?i=webpack, gulp)](https://skillicons.dev)
+- Languages: [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass)](https://skillicons.dev)
+- Libraries: [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+- CSS Libraries: [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+- Build Tools: [![My Skills](https://skillicons.dev/icons?i=webpack,gulp)](https://skillicons.dev)
 
 #### 🔭 Key Projects
 
