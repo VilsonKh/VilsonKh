@@ -1,6 +1,6 @@
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__heading.png" alt="heading">
-<img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__aboutMe.png" alt="about">
+<img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__aboutMe.png" alt="aboutMe">
 
 
 I'm a passionate frontend developer with a knack for crafting beautiful and user-friendly web experiences. My goal is to create seamless, responsive, and visually appealing applications that leave a lasting impression on users.
