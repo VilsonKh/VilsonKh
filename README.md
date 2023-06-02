@@ -15,7 +15,8 @@ I graduated with a bachelor's degree in Management, which equipped me with probl
 
 I completed various online courses to enhance my skills in HTML, CSS, JavaScript, and responsive web design. Additionally, I gained experience with popular frameworks like React and Vue.js. Through personal projects, I applied my knowledge, built interactive websites, and integrated APIs. I'm committed to staying updated with the latest frontend technologies.
 
-#### 🌟 Skills
+
+<img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__skills.png" alt="skill">
 
 - Languages: [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass)](https://skillicons.dev)
 - Libraries: [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
