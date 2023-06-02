@@ -17,7 +17,7 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
 
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__skills.png" alt="skill">
-<p style={'text-align':'center'}>
+<p style="text-align: center;">
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/html5.svg" alt="html" height="70" width="70">
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/%D1%81ss3.svg" alt="css" height="70" width="70">
   <img src="https://github.com/VilsonKh/VilsonKh/blob/main/js.svg" alt="js" height="70" width="70">
