@@ -17,7 +17,7 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
 
 #### 🌟 Skills
 
-- ✨ Languages: HTML5, CSS3, JavaScript, TypeScript, SASS/SCSS
+- ✨ Languages: HTML5, CSS3, JavaScript, TypeScript, SASS/SCSS [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass)](https://skillicons.dev)
 - ✨ Frameworks: React.js
 - ✨ CSS Libraries: Bootstrap
 - ✨ UI/UX: Responsive Design
