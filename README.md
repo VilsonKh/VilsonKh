@@ -9,7 +9,7 @@ I'm deeply passionate about web development and constantly strive to expand my k
 
 I have a strong eye for design and a deep understanding of user experience principles. I believe in the power of creating intuitive interfaces that not only look great but also provide a seamless and enjoyable experience for users.
 
-#### 💼 Education
+<img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__education.png" alt="education">
 
 I graduated with a bachelor's degree in Management, which equipped me with problem-solving, communication, and project coordination skills. I discovered my passion for coding during my studies and focused on frontend development. 
 
