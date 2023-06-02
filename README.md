@@ -36,11 +36,11 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
 Here are some of the most significant projects I have worked on:
 
 - [Invoice App](https://github.com/VilsonKh/invoice-app-rewrite): This web application efficiently manages invoices, allowing users to add, delete, mark, and edit them. It offers a user-friendly interface and robust functionality for streamlined invoicing. Users can create new invoices by entering client information, item details, quantities, and prices. The application allows easy deletion of invoices, marking them as paid or pending, and editing existing invoices.
-<p>Technologies: HTML, SASS, React</p>
+Technologies: HTML, SASS, React
 - [Audiophile](https://github.com/VilsonKh/audiophile): Audiophile is a user-friendly web application designed for audio enthusiasts and professionals. It allows users to effortlessly navigate through various pages, explore different categories of audio equipment, and easily add products to their cart. With a streamlined interface, users can manage their shopping cart, modify quantities, and remove items as needed. The application also offers a convenient checkout process, where users can provide essential details for order placement, such as delivery address and payment method.
-<p>Technologies: HTML, CSS, JS</p>
+Technologies: HTML, CSS, JS
 - [Tribe](https://github.com/VilsonKh/tribe):TribeVibe is an award-winning web application with its eye-catching and non-trivial web design developed for organizing and managing events. This project was developed for educational purposes to enhance proficiency in HTML, CSS, and JavaScript.
-<p>Technologies: HTML, CSS, JS-libraries</p>
+Technologies: HTML, CSS, JS-libraries
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__connect.png" alt="project">
 
@@ -48,19 +48,3 @@ I'm always open to new opportunities, collaborations, and discussions. Feel free
 
 Looking forward to connecting with you and creating amazing web experiences together!
 
-
-
-<!--
-**VilsonKh/VilsonKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
