@@ -35,7 +35,7 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
 
 Here are some of the most significant projects I have worked on:
 
-- [Project 1](link-to-project1): Brief description of the project and your contribution.
+- [Invoice App](https://github.com/VilsonKh/invoice-app-rewrite): This web application efficiently manages invoices, allowing users to add, delete, mark, and edit them. It offers a user-friendly interface and robust functionality for streamlined invoicing. Users can create new invoices by entering client information, item details, quantities, and prices. The application allows easy deletion of invoices, marking them as paid or pending, and editing existing invoices.
 - [Project 2](link-to-project2): Brief description of the project and your contribution.
 - [Project 3](link-to-project3): Brief description of the project and your contribution.
 
