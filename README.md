@@ -39,7 +39,7 @@ Here are some of the most significant projects I have worked on:
 Technologies: HTML, SASS, React
 - [Audiophile](https://github.com/VilsonKh/audiophile): Audiophile is a user-friendly web application designed for audio enthusiasts and professionals. It allows users to effortlessly navigate through various pages, explore different categories of audio equipment, and easily add products to their cart. With a streamlined interface, users can manage their shopping cart, modify quantities, and remove items as needed. The application also offers a convenient checkout process, where users can provide essential details for order placement, such as delivery address and payment method.
 Technologies: HTML, CSS, JS
-- [Tribe](https://github.com/VilsonKh/tribe): TribeVibe is an award-winning web application with its eye-catching and non-trivial web design developed for organizing and managing events. This project was developed for educational purposes to enhance proficiency in HTML, CSS, and JavaScript.
+- [Tribe](https://github.com/VilsonKh/tribe): TribeVibe is an award-winning web application with its eye-catching and non-trivial web design developed for organizing and managing events.
 Technologies: HTML, CSS, JS-libraries
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__connect.png" alt="project">
