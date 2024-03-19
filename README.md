@@ -13,7 +13,7 @@ I have a strong eye for design and a deep understanding of user experience princ
 
 I graduated with a bachelor's degree in Management, which equipped me with problem-solving, communication, and project coordination skills. I discovered my passion for coding during my studies and focused on frontend development. 
 
-I completed various online courses to enhance my skills in HTML, CSS, JavaScript, and responsive web design. Additionally, I gained experience with popular frameworks like React and Vue.js. Through personal projects, I applied my knowledge, built interactive websites, and integrated APIs. I'm committed to staying updated with the latest frontend technologies.
+I completed various online courses to enhance my skills in HTML, CSS, JavaScript, and responsive web design. Additionally, I gained experience with popular frameworks like React and Vue.js. Through personal projects and 1 year of commercial coding, I applied my knowledge, built interactive websites, and integrated APIs. I'm committed to staying updated with the latest frontend technologies.
 
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__skills.png" alt="skill">
