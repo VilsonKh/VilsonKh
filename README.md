@@ -35,12 +35,11 @@ I completed various online courses to enhance my skills in HTML, CSS, JavaScript
 
 Here are some of the most significant projects I have worked on:
 
+- [Entertainment App](https://github.com/VilsonKh/entertainment-app): Entertainment App is a React-based project that serves as a convenient application for browsing and tracking movies and TV shows. The app features a content library that allows users to discover their favorite films and series, add bookmarks, and navigate between different tabs and content cards. Technologies: React, React-router, Redux, Firestore, Yup, Jest.
 - [Invoice App](https://github.com/VilsonKh/invoice-app-rewrite): This web application efficiently manages invoices, allowing users to add, delete, mark, and edit them. It offers a user-friendly interface and robust functionality for streamlined invoicing. Users can create new invoices by entering client information, item details, quantities, and prices. The application allows easy deletion of invoices, marking them as paid or pending, and editing existing invoices.
 Technologies: HTML, SASS, React
 - [Audiophile](https://github.com/VilsonKh/audiophile): Audiophile is a user-friendly web application designed for audio enthusiasts and professionals. It allows users to effortlessly navigate through various pages, explore different categories of audio equipment, and easily add products to their cart. With a streamlined interface, users can manage their shopping cart, modify quantities, and remove items as needed. The application also offers a convenient checkout process, where users can provide essential details for order placement, such as delivery address and payment method.
 Technologies: HTML, CSS, JS
-- [Tribe](https://github.com/VilsonKh/tribe): TribeVibe is an award-winning web application with its eye-catching and non-trivial web design developed for organizing and managing events.
-Technologies: HTML, CSS, JS-libraries
 
 <img src="https://github.com/VilsonKh/VilsonKh/blob/main/github__connect.png" alt="project">
 
